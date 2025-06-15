@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohit-dev28
-- 👀 I’m interested in ... Game Development And AI-ML
-- 🌱 I’m currently learning ... Game Development 
+- 👀 I’m interested in ... Python + Data Science And AI And ML
+- 🌱 I’m currently learning ... Python
 - 😄 Pronouns: ...He/Him
 <br> 
 
