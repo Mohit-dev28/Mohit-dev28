@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohit-dev28
-- 👀 I’m interested in ... Python + Data Science And AI And ML
+- 👀 I’m interested in ... Python And AI And ML
 - 🌱 I’m currently learning ... Python
 - 😄 Pronouns: ...He/Him
 
